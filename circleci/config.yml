@@ -23,5 +23,5 @@ jobs:
       - run:
           name: verify cookbook style
           command: |
-          echo 'test'
+            echo'test'
  
