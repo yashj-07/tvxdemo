@@ -29,7 +29,8 @@ jobs:
       - run:
           name: verify cookbook style
           command: |
-            foodcritic cookbooks/tvxdemo
+          echo 'test'
+            
 
 #       - save_cache:
 #           paths:
